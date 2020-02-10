@@ -1,3 +1,3 @@
 Gem documentation: https://github.com/piotrmurach/tty-prompt
 
-version-2
+version-3
